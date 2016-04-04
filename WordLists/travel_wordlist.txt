@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/travel_wordlist.txt
+https://github.com/TangibleTec/Research-with-Bing/blob/master/WordLists/travel_wordlist.txt
