@@ -1,0 +1,5 @@
+Automotive,https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/aut_wordlist.txt
+Aviation,https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/avi_wordlist.txt
+Celebrities,https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/cel_wordlist.txt
+Electronics,https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/ele_wordlist.txt
+Video games,https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/vid_wordlist.txt
