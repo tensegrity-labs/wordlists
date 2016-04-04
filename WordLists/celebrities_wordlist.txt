@@ -1,4 +1,4 @@
-https://github.com/TangibleTec/Research-with-Bing
+https://github.com/TangibleTec/Research-with-Bing/blob/master/WordLists/celebrities_wordlist.txt
 50 Cent
 A. Dean Bell
 A.J. Buckley
