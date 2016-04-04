@@ -1,4 +1,4 @@
-https://github.com/TangibleTec/Research-with-Bing
+https://github.com/TangibleTec/Research-with-Bing/blob/master/WordLists/electronics_wordlist.txt
 ac+potentiometer
 ablation
 abma
@@ -1287,7 +1287,7 @@ external+equalizer
 external+treatment
 extinction
 extraction+pump
-extraction+turbine+–face+area
+extraction+turbine+Â–face+area
 extragalactic
 extraneous+conductive+part
 extrapolation
@@ -1820,7 +1820,7 @@ kilowatt
 kilowatt-hour
 kinetic+energy
 king+valve
-kirchoff’s+second+law
+kirchoffÂ’s+second+law
 kirchoff's+current+law+
 kirchoff's+voltage+law+
 kirkwood+gaps
@@ -1845,7 +1845,7 @@ latent+heat+of+condensation
 latent+heat+of+fusion
 latent+heat+of+vaporization
 lattice
-law+of+partial+pressure,+dalton’s
+law+of+partial+pressure,+daltonÂ’s
 leaching
 lead
 leading+edge
@@ -2196,7 +2196,7 @@ oerstead
 off-line
 off-peak
 offset
-ohm’s+law
+ohmÂ’s+law
 ohm
 ohm's+law
 ohm,
@@ -4631,7 +4631,7 @@ external+equalizer
 external+treatment
 extinction
 extraction+pump
-extraction+turbine+–face+area
+extraction+turbine+Â–face+area
 extragalactic
 extraneous+conductive+part
 extrapolation
@@ -5164,7 +5164,7 @@ kilowatt
 kilowatt-hour
 kinetic+energy
 king+valve
-kirchoff’s+second+law
+kirchoffÂ’s+second+law
 kirchoff's+current+law+
 kirchoff's+voltage+law+
 kirkwood+gaps
@@ -5189,7 +5189,7 @@ latent+heat+of+condensation
 latent+heat+of+fusion
 latent+heat+of+vaporization
 lattice
-law+of+partial+pressure,+dalton’s
+law+of+partial+pressure,+daltonÂ’s
 leaching
 lead
 leading+edge
@@ -5540,7 +5540,7 @@ oerstead
 off-line
 off-peak
 offset
-ohm’s+law
+ohmÂ’s+law
 ohm
 ohm's+law
 ohm,
@@ -7974,7 +7974,7 @@ external+equalizer
 external+treatment
 extinction
 extraction+pump
-extraction+turbine+–face+area
+extraction+turbine+Â–face+area
 extragalactic
 extraneous+conductive+part
 extrapolation
@@ -8507,7 +8507,7 @@ kilowatt
 kilowatt-hour
 kinetic+energy
 king+valve
-kirchoff’s+second+law
+kirchoffÂ’s+second+law
 kirchoff's+current+law+
 kirchoff's+voltage+law+
 kirkwood+gaps
@@ -8532,7 +8532,7 @@ latent+heat+of+condensation
 latent+heat+of+fusion
 latent+heat+of+vaporization
 lattice
-law+of+partial+pressure,+dalton’s
+law+of+partial+pressure,+daltonÂ’s
 leaching
 lead
 leading+edge
@@ -8883,7 +8883,7 @@ oerstead
 off-line
 off-peak
 offset
-ohm’s+law
+ohmÂ’s+law
 ohm
 ohm's+law
 ohm,
@@ -11317,7 +11317,7 @@ external+equalizer
 external+treatment
 extinction
 extraction+pump
-extraction+turbine+–face+area
+extraction+turbine+Â–face+area
 extragalactic
 extraneous+conductive+part
 extrapolation
@@ -11850,7 +11850,7 @@ kilowatt
 kilowatt-hour
 kinetic+energy
 king+valve
-kirchoff’s+second+law
+kirchoffÂ’s+second+law
 kirchoff's+current+law+
 kirchoff's+voltage+law+
 kirkwood+gaps
@@ -11875,7 +11875,7 @@ latent+heat+of+condensation
 latent+heat+of+fusion
 latent+heat+of+vaporization
 lattice
-law+of+partial+pressure,+dalton’s
+law+of+partial+pressure,+daltonÂ’s
 leaching
 lead
 leading+edge
@@ -12226,7 +12226,7 @@ oerstead
 off-line
 off-peak
 offset
-ohm’s+law
+ohmÂ’s+law
 ohm
 ohm's+law
 ohm,
