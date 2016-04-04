@@ -1,4 +1,4 @@
-http://www.bing.com/explore/rewards?PUBL=REFERAFRIEND&CREA=RAW&rrid=_2f1e9da5-afc9-5515-dba9-550c38b32e2a
+https://github.com/TangibleTec/Research-with-Bing
 ac+potentiometer
 ablation
 abma
