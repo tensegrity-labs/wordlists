@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/videogames_wordlist.txt
+https://github.com/TangibleTec/Research-with-Bing/blob/master/WordLists/videogames_wordlist.txt
 2
 4
 8
