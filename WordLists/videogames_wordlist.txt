@@ -1,4 +1,4 @@
-https://github.com/TangibleTec/Research-with-Bing
+https://raw.githubusercontent.com/TangibleTec/Research-with-Bing/master/WordLists/videogames_wordlist.txt
 2
 4
 8
@@ -235,7 +235,7 @@ A-10+Cuba
 A-10+Tank+Killer+2:+Silent+Thunder
 A2+Racer+2
 aa
-AAA+Lucha+Libre:+Héroes+del+Ring
+AAA+Lucha+Libre:+HÃ©roes+del+Ring
 aaah!+a+Roman+Csudoku
 Aah+Impossible+Rescue
 aar8
@@ -331,7 +331,7 @@ Activision+Hits+Remixed
 Actua+Soccer
 Actua+Soccer+2
 Actua+Soccer+3
-Adam’s+Venture+3:+Revelations
+Adamâ€™s+Venture+3:+Revelations
 Adam's+Venture+2:+Solomon's+Secret
 Adam's+Venture+Chronicles
 Adam's+Venture:+The+Search+for+the+Lost+Garden
@@ -1092,7 +1092,7 @@ Asphalt+7:+Heat
 Asphalt+8:+Airborne
 Asphalt+Injection
 Asphalt+Urban+GT
-Assassin’s+Creed+III+Liberation
+Assassinâ€™s+Creed+III+Liberation
 Assassin's+Creed
 Assassin's+Creed+-+Altar's+Chronicles
 Assassin's+Creed+II
@@ -1942,7 +1942,7 @@ Blazing+Star
 Bleach:+Dark+Souls
 Bleach:+Heat+the+Soul
 Bleach:+Shattered+Blade
-Bleach:+Soul+Resurreccií³n
+Bleach:+Soul+ResurrecciÃ­Â³n
 Bleach:+The+3rd+Phantom
 Bleach:+The+Blade+of+Fate
 Bleifuss+Fun
@@ -2145,7 +2145,7 @@ Borderlands
 Borderlands+2
 Borderlands+2:+Mr.+Torgue's+Campaign+of+Carnage
 Borderlands+2:+Sir+Hammerlock's+Big+Game+Hunt
-Borderlands+2:+Tiny+Tina’s+Assault+on+Dragon+Keep
+Borderlands+2:+Tiny+Tinaâ€™s+Assault+on+Dragon+Keep
 Borderlands+Legends
 Borderlands:+Claptrap's+New+Robot+Revolution
 Borderlands:+Double+Game+Add-On+Pack
@@ -2291,7 +2291,7 @@ Broken+Sword
 Broken+Sword+2:+The+Smoking+Mirror
 Broken+Sword+Director's+Cut
 Broken+Sword:+Shadows+of+the+Templars+(Director's+Cut)
-Broken+Sword:+The+Serpent’s+Curse
+Broken+Sword:+The+Serpentâ€™s+Curse
 Broken+Sword:+The+Sleeping+Dragon
 Broken+Sword:+The+Smoking+Mirror
 Brooktown+High
@@ -3299,7 +3299,7 @@ Compromised
 Computer
 Conan
 Conan:+The+Dark+Age
-Conception+2:+Guidance+of+Seven+Stars+and+Muzzle’s+Nightmare
+Conception+2:+Guidance+of+Seven+Stars+and+Muzzleâ€™s+Nightmare
 Conception+II:+Children+of+the+Seven+Stars
 Concerto+Gate
 Concursion
@@ -3501,7 +3501,7 @@ Crazy+Cheebo+Puzzle+Party
 Crazy+Chicken+Pirates
 Crazy+Chicken+Tales
 Crazy+Chicken:+Atlantis+Quest
-Crazy+Chicken:+Director’s+Cut
+Crazy+Chicken:+Directorâ€™s+Cut
 Crazy+Chicken:+Pharaoh's+Treasure
 Crazy+Chicken:+Star+Karts
 Crazy+Chipmunks
@@ -3932,7 +3932,7 @@ Daxter
 Day+of+Defeat
 Day+of+Defeat:+Source
 Day+One
-Day+One:+Garry’s+Incident
+Day+One:+Garryâ€™s+Incident
 Daycare
 Daylight
 Days+of+Thunder
@@ -4860,7 +4860,7 @@ Duck+Dynasty:+Battle+of+the+Beards+HD
 Duckman
 Duckstruction
 DuckTales+Remastered
-DuckTales:+Scrooge’s+Loot
+DuckTales:+Scroogeâ€™s+Loot
 Dude
 Dude+Jump
 Dude+Perfect
@@ -5063,7 +5063,7 @@ Edge+Of+Eternity
 Edge+of+Space
 Edge+of+the+World
 Edge+of+Twlight
-Edna+&+Harvey:+Harvey’s+New+Eyes
+Edna+&+Harvey:+Harveyâ€™s+New+Eyes
 Edna+&+Harvey:+The+Breakout
 Eduardo+the+Samurai+Toaster
 EEDOO+Sports
@@ -6904,7 +6904,7 @@ plz
 plzrd
 PM
 pmsl
-Pokémon
+PokÃ©mon
 posbl
 Possible
 Postmeridian
@@ -7119,7 +7119,7 @@ The+Adventures+of+Cookie+&+Cream
 The+Adventures+of+Lomax
 The+Ant+Bully
 The+Arrival
-The+Bard’s+Tale
+The+Bardâ€™s+Tale
 The+Bards+Tale
 The+Bard's+Tale
 The+Belt
