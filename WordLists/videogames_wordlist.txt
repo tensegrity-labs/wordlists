@@ -1,4 +1,3 @@
-https://github.com/TangibleTec/Research-with-Bing/blob/master/WordLists/videogames_wordlist.txt
 2
 4
 8
