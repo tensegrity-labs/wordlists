@@ -1,4 +1,3 @@
-https://github.com/TangibleTec/Research-with-Bing/blob/master/WordLists/automotive_wordlist.txt
 A/C+compressor
 A/C+drain+hose
 A-pillar
