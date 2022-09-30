@@ -2,4 +2,4 @@ Automotive,https://raw.githubusercontent.com/TangibleTec/Wordlists/master/WordLi
 Aviation,https://raw.githubusercontent.com/TangibleTec/Wordlists/master/WordLists/aviation_wordlist.txt
 Celebrities,https://raw.githubusercontent.com/TangibleTec/Wordlists/master/WordLists/celebrities_wordlist.txt
 Electronics,https://raw.githubusercontent.com/TangibleTec/Wordlists/master/WordLists/electronics_wordlist.txt
-Video games,https://raw.githubusercontent.com/TangibleTec/Wordlists/master/WordLists/videogames_wordlist.txt
+Video games,https://raw.githubusercontent.com/tensegrity-labs/Wordlists/master/WordLists/videogames_wordlist.txt
